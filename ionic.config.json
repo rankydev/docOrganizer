@@ -1,0 +1,7 @@
+{
+  "name": "docOrganizer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
